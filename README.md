@@ -1,4 +1,6 @@
-###                                    👋 Hi, I'm a Gitansh Agalcha Young Python Developer
+<h1 align="center">
+  Hi, I'm Gitansh Agalcha a Young Python Developer 🚀
+</h1>
  
 💻 Passionate about coding and building projects with Python
 
