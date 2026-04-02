@@ -1,10 +1,4 @@
-<h1 align="center">Hi 👋,I'm Gitansh | Aspiring AI Engineer🤖 </h1>
-
-<p align="center">
-  💻 Passionate about coding <br><br>
-  🚀 Learning Frameworks and AI,ML <br><br>
-  🔥 Future AI Engineer
-</p>
+<h1 align="center">Hi 👋,I'm Gitansh! | Aspiring AI Engineer🤖 </h1>
 
 ---
 
