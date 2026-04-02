@@ -1,8 +1,11 @@
 ### 👋 Hi, I'm a Gitansh Agalcha Young Python Developer
 
 💻 Passionate about coding and building projects with Python
+
 🚀 Currently learning and improving my skills every day
+
 🧠 Interested in problem-solving, Frameworks, and tech
+
 📚 Always exploring new technologies and ideas
 
 ### 🔧 Skills
