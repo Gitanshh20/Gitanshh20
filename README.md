@@ -6,7 +6,8 @@
 - 🐍 I have full knowledge of Python and NumPy  
 - ⚡ I enjoy solving problems and automating things  
 - 📚 Currently learning AI and ML with tool Pytorch 
-- 🎯 Goal: Become a professional AI Engineer 
+- 🎯 Goal: Become a professional AI Engineer
+- 🛠️ Tools: Github & Github Desktop
 
 ---
 
