@@ -38,7 +38,3 @@
 - 🌐 https://github.com/Gitanshh20
    
 ---
-
-<p align="center">
-  ⭐ Don't forget to follow me!
-</p>
