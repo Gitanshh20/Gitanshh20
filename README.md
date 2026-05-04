@@ -8,6 +8,7 @@
 - 📚 Currently learning AI and ML with tool Pytorch 
 - 🎯 Goal: Become a professional AI Engineer
 - 🛠️ Tools: Github & Github Desktop
+- 💻 Project: JarvisX
 
 ---
 
