@@ -13,13 +13,18 @@
 ---
 
 ### 🚀 Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-blueviolet?style=for-the-badge" /> &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ML-Machine%20Learning-green?style=for-the-badge" />
+<p>
+  
+<img src="https://skillicons.dev/icons?i=python" height="48"/> &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="48"/> &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="48"/> &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=git" height="48"/> &nbsp; &nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="48"/> &nbsp; &nbsp;
+<img src="https://numpy.org/images/logo.svg" height="48"/> &nbsp; &nbsp;
+<img src="https://pandas.pydata.org/static/img/pandas.svg" height="50" style="background:white; padding:6px; border-radius:8px;"/>
+
 </p>
+
 
 ---
 
