@@ -5,7 +5,7 @@
 ### 🧠 About Me
 - 🐍 I have full knowledge of Python and NumPy  
 - ⚡ I enjoy solving problems and automating things  
-- 📚 Currently learning AI and ML with tool Pytorch 
+- 📚 Currently learning Panadas and Matplotlib
 - 🎯 Goal: Become a professional AI Engineer
 - 🛠️ Tools: Github & Git
 - 💻 Project: JarvisX
