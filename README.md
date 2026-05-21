@@ -25,15 +25,7 @@
 
 </p>
 
-
----
-
-### 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
+----
 
 ### 🏆 Fun Fact
 - I started coding at a young age and love turning ideas into reality 🚀
