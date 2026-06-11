@@ -3,7 +3,7 @@
 ---
 
 ### 🧠 About Me
-- 🐍 I have full knowledge of Python and NumPy  
+- 🐍 I have knowledge of Python and NumPy  
 - ⚡ I enjoy solving problems and automating things  
 - 📚 Currently learning Pandas and Matplotlib
 - 🎯 Goal: Become a professional AI Engineer
