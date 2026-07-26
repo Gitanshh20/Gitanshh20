@@ -18,8 +18,7 @@
 <img src="https://skillicons.dev/icons?i=python" height="48"/> &nbsp; &nbsp;
 <img src="https://skillicons.dev/icons?i=github" height="48"/> &nbsp; &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="48"/> &nbsp; &nbsp;
-<img src="https://numpy.org/images/logo.svg" height="48"/> &nbsp; &nbsp;
-<img src="https://dl.svgcdn.com/png/logos/pandas-icon-800.png" height="50" style="background:white; padding:6px; border-radius:8px;"/> &nbsp; &nbsp;
+<img src="https://numpy.org/images/logo.svg" height="48"/>  &nbsp; &nbsp;
 <img height="48" alt="image" src="https://github.com/user-attachments/assets/8fed6d66-6f04-4456-a94e-33245cb71df5" />
 
 
